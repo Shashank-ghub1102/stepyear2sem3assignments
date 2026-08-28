@@ -1,4 +1,4 @@
-package control_flow.assigment_problems;
+package control_flow.assignment_problems;
 
 public class MultiplicationTableGenerator {
 

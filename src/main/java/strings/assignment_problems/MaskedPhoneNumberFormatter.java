@@ -1,4 +1,4 @@
-package strings.assigment_problems;
+package strings.assignment_problems;
 
 public class MaskedPhoneNumberFormatter {
 

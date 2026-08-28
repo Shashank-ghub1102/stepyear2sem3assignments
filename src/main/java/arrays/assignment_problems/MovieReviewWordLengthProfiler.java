@@ -1,4 +1,4 @@
-package arrays.assigment_problems;
+package arrays.assignment_problems;
 
 public class MovieReviewWordLengthProfiler {
 
