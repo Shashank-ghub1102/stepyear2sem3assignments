@@ -1,4 +1,4 @@
-package strings.assignment_problems;
+package strings.class_problems;
 
 public class FileExtensionValidator {
 
