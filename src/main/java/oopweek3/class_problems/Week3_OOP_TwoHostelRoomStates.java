@@ -1,4 +1,4 @@
-package oop.class_problems;
+package oopweek3.class_problems;
 
 class HostelRoom {
     String roomNo;

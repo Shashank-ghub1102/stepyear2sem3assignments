@@ -1,4 +1,4 @@
-package oop.assignment_problems;
+package oopweek3.assignment_problems;
 
 class ExamHall {
     String hallName;
