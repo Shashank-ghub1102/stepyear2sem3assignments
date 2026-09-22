@@ -1,4 +1,4 @@
-package strings.assignment_problems;
+package stringsweek2.assignment_problems;
 
 public class Week2_Strings_LibraryISBNNormalizerValidator {
     static String normalizeCode(String raw) {

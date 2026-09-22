@@ -1,4 +1,4 @@
-package strings.class_problems;
+package stringsweek2.class_problems;
 
 public class Week2_Strings_MaskedPhoneNumberFormatter {
 

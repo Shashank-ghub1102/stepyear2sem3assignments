@@ -1,4 +1,4 @@
-package strings.assignment_problems;
+package stringsweek2.assignment_problems;
 
 import java.util.ArrayList;
 import java.util.Comparator;
