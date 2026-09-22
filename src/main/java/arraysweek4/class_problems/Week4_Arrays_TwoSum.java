@@ -1,4 +1,4 @@
-package arrays.class_problems;
+package arraysweek4.class_problems;
 
 public class Week4_Arrays_TwoSum {
     static int[] twoSum(int[] nums, int target) {

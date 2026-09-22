@@ -1,4 +1,4 @@
-package arrays.assignment_problems;
+package arraysweek4.assignment_problems;
 
 public class Week4_Arrays_MaximumSubarray {
     static int maxSubArray(int[] nums) {

@@ -1,4 +1,4 @@
-package arrays.class_problems;
+package arraysweek4.class_problems;
 
 public class Week4_Arrays_ContainsDuplicate {
     static boolean containsDuplicate(int[] nums) {
