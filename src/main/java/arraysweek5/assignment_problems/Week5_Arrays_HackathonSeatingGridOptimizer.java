@@ -1,4 +1,4 @@
-package arrays2.assignment_problems;
+package arraysweek5.assignment_problems;
 
 public class Week5_Arrays_HackathonSeatingGridOptimizer {
     private static double rowAverage(int[] row) {
